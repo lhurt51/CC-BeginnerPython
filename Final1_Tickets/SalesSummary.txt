@@ -1,0 +1,3 @@
+Total # of child tickets sold: 12
+Total # of adult tickets sold: 12
+Total amount of income before expenses: 169.0
